@@ -1,3 +1,3 @@
 <?php
-print "<h2>PHP is Fun!</h2>";
+print "<h2>PHP is second Fun!</h2>";
 ?>
